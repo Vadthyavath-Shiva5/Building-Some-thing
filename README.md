@@ -1,5 +1,5 @@
 # Building-Some-thing
-For training purpose only
+For Practice purpose only
 
 ## Wordle Arcade (Login Home Page)
 
@@ -36,3 +36,4 @@ Then open `http://localhost:5173` in your browser.
 
 - **Accounts are demo-only**: users and passwords are stored in your browser `localStorage` for this demo.
 - To reset everything, clear site data / localStorage in your browser.
+
